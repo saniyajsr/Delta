@@ -1,2 +1,2 @@
 # Delta
-This is delta for git and github
+This is a delta for git and github class.
